@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import Link from "../../../AuroraKay-Portfolio/node_modules/next/link";
+import Link from "next/link";
 import { Menu, X } from "lucide-react";
 
 export default function Navbar() {
