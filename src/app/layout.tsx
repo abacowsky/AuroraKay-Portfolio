@@ -1,5 +1,7 @@
-import type { Metadata } from "../../AuroraKay-Portfolio/node_modules/next";
-import { Geist, Geist_Mono } from "../../AuroraKay-Portfolio/node_modules/next/font/google";
+import type { Metadata } from "next";
+import { Geist, Geist_Mono } from "next/font/google";
+import "./globals.css";
+
 import "./globals.css";
 
 const geistSans = Geist({

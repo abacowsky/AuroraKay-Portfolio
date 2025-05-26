@@ -1,7 +1,7 @@
 "use client";
 
-import Image from "../../AuroraKay-Portfolio/node_modules/next/image";
-import Link from "../../AuroraKay-Portfolio/node_modules/next/link";
+import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 
 export default function Home() {
