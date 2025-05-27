@@ -217,8 +217,7 @@ export default function Home() {
                 <Link href="#"><i className="fab fa-linkedin"></i></Link>
               </div>
               <a href="/images/aurora_resume_spring2025.pdf" download className="btn btn2">
-                Download Resume
-              </a>
+                Download Resume </a>
             </div>
             <div className="contact-right">
               <form name="submit-to-google-sheet">
